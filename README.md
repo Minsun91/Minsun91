@@ -29,9 +29,8 @@
 ---
 
 
-![Minsun's GitHub](https://github-readme-stats.vercel.app/api?username=Minsun91&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minsun91&layout=compact)](https://github.com/Minsun91/github-readme-stats)
-
+![Minsun's GitHub](https://github-readme-stats.vercel.app/api?username=Minsun91&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minsun91)](https://github.com/Minsun91/github-readme-stats)
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=footer&text=&fontSize=50"/>
