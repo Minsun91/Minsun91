@@ -16,14 +16,14 @@
 
 ---
 
-<h3 align="center"><b> Contact 📧</b></h3>
 
-</br>
-<p align="center">
-<a href="mailto:minsunkim167"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:minsunkim167@gmail.com"/></a>
-<a href="https://www.instagram.com/matagom10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/matagom10"/></a>
-<a href="https://www.linkedin.com/in/minsunkim167/"><img src="http://img.shields.io/badge/-LinkedIn-0072b1.svg?style=flat&logo=LinkedIn&link=https://www.linkedin.com/in/minsunkim167/"/></a>
-</p>
+<h3 align="center"><b>📝 Repositpry 📝</b></h3>
+
+| Repository                                                               |  Description                   | Period    | 
+| :----------------------------------------------------------------------- | :----------------------------- | :-------- |
+| [CLIPs](https://github.com/codeing999/CLIPs-backend) | Place Recommendation Service  | 07.10.2022- 26.08.2022 |
+| [Tindater](https://github.com/TinDater/TinDater-backend) | Tinder Clone  | 19.08.2022- 25.08.202 |
+| [HNN](https://github.com/codeing999/hanghae-algorithm-study) | Music Recommendation Service by MBTI | 12.08.2022- 18.08.2022|
 
 
 ---
@@ -31,6 +31,7 @@
 
 ![Minsun's GitHub](https://github-readme-stats.vercel.app/api?username=Minsun91&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minsun91)](https://github.com/Minsun91/github-readme-stats)
+
 
 
 <p align="center">
