@@ -24,6 +24,7 @@
 | [CLIPs](https://github.com/codeing999/CLIPs-backend) | Place Recommendation Service  | 07.10.2022- 26.08.2022 |
 | [Tindater](https://github.com/TinDater/TinDater-backend) | Tinder Clone  | 19.08.2022- 25.08.202 |
 | [HNN](https://github.com/codeing999/hanghae-algorithm-study) | Music Recommendation Service by MBTI | 12.08.2022- 18.08.2022|
+| [CS Study](https://github.com/Minsun91/hanghae-cs-study.git) | CS Study  | 18.07.2022- 22.08.202 |
 
 
 ---
